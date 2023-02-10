@@ -1,7 +1,7 @@
 {
-  "name": "sample-project",
+  "name": "todo-list-application",
   "version": "0.1.0",
-  "homepage": "https://anshumanformal.github.io/todo-list",
+  "homepage": "https://Anshumanformal.github.io/Todo-list-application",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
